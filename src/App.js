@@ -28,7 +28,7 @@ function App() {
     <div>
       
      <div className='Digital-clock'>
-      <h1>Digital Clocks</h1>
+      <h1>Digital Clock</h1>
       
         <div className="Time">{hourformat(zeroformat(currentdate.getHours()))}:
           {
